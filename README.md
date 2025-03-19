@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Javacefu
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Javier Acevedo
+- 👀 I’m interested in learn and work on new proyects
+- 🌱 I’m currently learning, Javascript, CSS, HTML
 
 <!---
 Javacefu/Javacefu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
